@@ -22,5 +22,7 @@ GitHub - https://github.com/dtenkov
 2.Інколи Ctrl+Х + Ctrl+V.
 3.Комунікабельність. (можливо) 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+##### Мої проекти.
+1.https://github.com/dtenkov/dtenkov.github.io
+2.https://github.com/dtenkov/dtenkov1
 
