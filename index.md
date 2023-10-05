@@ -11,33 +11,22 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Контактні дані:
 Email: dtenkov@rcit.ukr.education
 Number: +38-0980715355
-###Соціальні мережі
+Location: -
 
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+#### Соціальні мрежі.
 
-##### Header 5
+Instagram - https://www.instagram.com/rfkeb_official/
+GitHub - https://github.com/dtenkov
+
+##### Мої навички.
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
