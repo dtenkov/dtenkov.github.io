@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 # Теньков Дмитро Костянтинович
 
 
@@ -21,14 +18,9 @@ Instagram - https://www.instagram.com/rfkeb_official/
 GitHub - https://github.com/dtenkov
 
 ##### Мої навички.
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-
-
-mage
+1.Ctrl+C + Ctrl+V.
+2.Інколи Ctrl+Х + Ctrl+V.
+3.Комунікабельність. (можливо) 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
